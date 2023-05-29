@@ -1,3 +1,5 @@
+//reads navBar.html and replaces the script tag with the #navBarGen id with its content
+
 fetch('navBar.html')
 .then(res => res.text())
 .then(text => {
