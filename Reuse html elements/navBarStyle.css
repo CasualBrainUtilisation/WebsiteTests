@@ -1,3 +1,5 @@
+/* the css for the navBar, add this to every page the navBar shall be added to (so in general all of your pages :)) */
+
 nav{
     background-color: gray;
 }
